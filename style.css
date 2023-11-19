@@ -8,7 +8,7 @@
 .favorite {
     background-color: #5222D0;
     color: #fff;   
-    border-radius: 30px;
+    border-radius: 2em;
     height: 50px;
     font-family: 'Intro Regular Caps';
     width: 150px;
@@ -26,4 +26,3 @@ ul li a{
     font-size: 3rem;
     font-weight: 700;
 }
-
